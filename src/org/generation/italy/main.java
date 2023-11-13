@@ -34,6 +34,7 @@ public class main {
 		ArrayList<String>uccelli= new ArrayList<>();
 		int numeroCategoria;
 		
+		//boh
 		do
 		{
 		
